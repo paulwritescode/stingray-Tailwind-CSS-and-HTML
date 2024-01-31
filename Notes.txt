@@ -1,0 +1,1 @@
+Using tailwind applies pre-existing classes directly into HTML
